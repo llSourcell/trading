@@ -1,7 +1,7 @@
 numpy
 pandas
 keras
-tensorflow
+tensorflow-gpu
 sklearn
 h5py
-gym==0.9.4
+gym
